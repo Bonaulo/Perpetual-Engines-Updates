@@ -1,0 +1,13 @@
+{
+  "package": "com.perpetualengines.cardmanager",
+  "minAndroid": "8.0",
+  "version": "1.0.0",
+  "bytes": 41437,
+  "sha256": "47be93e582c6483da177058cd24b8312969afaa10173be430d6ee0a293821afe",
+  "signature": "v2/v3 verified",
+  "permissions": [
+    "INTERNET"
+  ],
+  "nativeLibraries": 0,
+  "deviceTest": "not run: no connected device or emulator"
+}
